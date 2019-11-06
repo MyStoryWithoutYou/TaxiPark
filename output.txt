@@ -1,0 +1,4 @@
+
+Brand: Audi, registration number: 6452, year of issue: 2006, fuel consumption: 14, number of passengers: 5, cost for 5 km: 7
+Brand: 
+Mercedes, registration number: 8743, year of issue: 2013, fuel consumption: 18, carrying capacity: 13, cost for 1 hour: 10The revenue for the day is: 1640

@@ -1,0 +1,11 @@
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark.deps.json
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark.runtimeconfig.json
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark.runtimeconfig.dev.json
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark.dll
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/bin/Debug/netcoreapp3.0/TaxiPark.pdb
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/obj/Debug/netcoreapp3.0/TaxiPark.csprojAssemblyReference.cache
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/obj/Debug/netcoreapp3.0/TaxiPark.AssemblyInfoInputs.cache
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/obj/Debug/netcoreapp3.0/TaxiPark.AssemblyInfo.cs
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/obj/Debug/netcoreapp3.0/TaxiPark.dll
+/Users/aliakseihudyma/RiderProjects/TaxiPark/TaxiPark/obj/Debug/netcoreapp3.0/TaxiPark.pdb
